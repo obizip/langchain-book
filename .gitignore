@@ -1,2 +1,4 @@
 sample.pdf
 .data
+.chainlit
+__pycache__
